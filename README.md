@@ -4,6 +4,10 @@
 
 ArCore.Xamarin sample - https://github.com/dotMorten/ARCore.Xamarin
 
+## Google
+
+The public repos for SDKs and libraries from the Google AR team - https://github.com/google-ar
+
 ## Unity3D
 
 ### Blogs
