@@ -1,5 +1,9 @@
 # WorldScaleAR
 
+## Xamarin
+
+ArCore.Xamarin sample - https://github.com/dotMorten/ARCore.Xamarin
+
 ## Unity3D
 
 ### Blogs
