@@ -6,6 +6,10 @@
 
 Dealing with Scale in AR - https://blogs.unity3d.com/2017/11/16/dealing-with-scale-in-ar/
 
+### Samples
+
+Mobile AR Tourist Information demo with ARCore - https://www.youtube.com/watch?v=hl21nXCDIKE
+
 ## MapBox
 
 ### Samples: 
