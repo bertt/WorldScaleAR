@@ -4,6 +4,8 @@
 
 ArCore.Xamarin sample - https://github.com/dotMorten/ARCore.Xamarin
 
+Google ARCore Binding for Xamarin.Android - https://github.com/xamarin/XamarinComponents/tree/master/Android/ARCore
+
 ## Google
 
 The public repos for SDKs and libraries from the Google AR team - https://github.com/google-ar
